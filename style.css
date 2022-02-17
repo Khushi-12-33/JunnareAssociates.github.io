@@ -277,3 +277,316 @@ footer a{
     float: left;
     background-color: rgb(173, 153, 192);
 }
+
+
+@media only screen and (max-width: 650px) {
+    .logo{
+        display: none;
+    }
+
+    .title{
+        font-size: 35px;
+    }
+
+    .FRT{
+        font-size: 25px; 
+    }
+
+    .rightHeader .Btn1{
+        width: 100px;
+        height: 15px;
+        font-size: x-small;
+    }
+
+    .rightHeader .name{
+        font-size: 18px;
+    }
+
+    .rightHeader .info{
+        font-size: 15px;
+    }
+    
+    .navbar .A{
+        height: 15px;
+    }
+
+    .Heading2{
+        width: 100%;
+    }
+
+    .Heading2 .small-text{
+        font-size: 25px;
+    }
+
+    .Heading2 #Products{
+        font-size: 25px;
+        margin-top: 0%;
+    }
+
+    .Heading2 .subList a{
+        font-size: 12px;
+        font-weight: normal;
+        text-decoration: none;
+    }
+
+    .Why{
+        display: none;
+    }
+
+    .Contact{
+        height: 20px;
+        font-size: 20px; 
+    }
+
+    .Contactus{
+        height: 15px;
+        font-size: 20px;
+    }
+
+    .footer{
+        height: 15px;
+    }
+
+    .footer a{
+        font-size: 15px;
+    }
+}
+
+@media(max-width: 1104px) {
+    .logo{
+        width: 20%;
+    }
+
+    .title{
+        font-size: 35px;}
+
+    .FRT{
+        font-size: 25px; 
+    }
+
+    .rightHeader .Btn1{
+        width: 100px;
+        height: 15px;
+        font-size: x-small;
+    }
+
+    .rightHeader .name{
+        font-size: 18px;
+    }
+
+    .rightHeader .info{
+        font-size: 15px;
+    }
+
+    .navbar .A{
+        height: 15px;
+    }
+
+    .Heading2{
+        width: 50%;
+    }
+
+    .Heading2 .small-text{
+        font-size: 25px;
+    }
+
+    .Heading2 #Products{
+        font-size: 25px;
+        margin-top: 0%;
+    }
+
+    .Heading2 .subList a{
+        font-size: 12px;
+        font-weight: normal;
+        text-decoration: none;
+    }
+
+
+    .Contact{
+        height: 20px;
+        font-size: 20px; 
+    }
+
+    .Contactus{
+        height: 15px;
+        font-size: 20px;
+    }
+
+    .footer{
+        height: 15px;
+    }
+
+    .footer a{
+        font-size: 15px;
+    }
+}
+
+@media (max-width: 560px){
+    .logo{
+        display: none;
+    }
+
+    .title{
+        font-size: 35px;
+    }
+
+    .FRT{
+        font-size: 25px; 
+    }
+
+    .rightHeader .Btn1{
+        width: 100px;
+        height: 15px;
+        font-size: x-small;
+    }
+
+    .rightHeader .name{
+        font-size: 18px;
+    }
+
+    .rightHeader .info{
+        font-size: 15px;
+    }
+    
+    .navbar .A{
+        height: 15px;
+    }
+
+    .Heading2{
+        width: 100%;
+    }
+
+    .Heading2 .small-text{
+        font-size: 25px;
+    }
+
+    .Heading2 #Products{
+        font-size: 25px;
+        margin-top: 0%;
+    }
+
+    .Heading2 .subList a{
+        font-size: 12px;
+        font-weight: normal;
+        text-decoration: none;
+    }
+
+    .Why{
+        display: none;
+    }
+
+    .Contact{
+        height: 20px;
+        font-size: 20px; 
+    }
+
+    .Contactus{
+        height: 15px;
+        font-size: 20px;
+    }
+
+    .footer{
+        height: 15px;
+    }
+
+    .footer a{
+        font-size: 15px;
+    }
+}
+
+@media (max-width: 400px){
+    .logo{
+        display: none;
+    }
+
+    .Header{
+        padding: 0%;
+        width: 50%;
+    }
+
+    .title{
+        font-size: 25px;
+    }
+
+    .FRT{
+        font-size: 18px; 
+    }
+
+    .rightHeader{
+        width: 50%;
+    }
+
+    .rightHeader .Btn1{
+        width: 100px;
+        height: 15px;
+        font-size: x-small;
+    }
+
+    .rightHeader .name{
+        font-size: 15px;
+    }
+
+    .rightHeader .info{
+        font-size: 12px;
+    }
+    
+    .navbar{
+        height: 25px;
+        padding: 0%;
+    }
+
+    .A{
+        font-size: 15px;
+        padding: 0%;
+    }
+
+    .A a{
+        font-size: 15px;
+        padding: 0%;
+        padding-right: 7px;
+    }
+
+    .Heading2{
+        width: 100%;
+    }
+
+    .Heading2 .small-text{
+        font-size: 20px;
+    }
+
+    .Heading2 #Products{
+        font-size: 20px;
+        margin-top: 0%;
+    }
+
+    .Heading2 #Products li a{
+        font-size: 15px;
+    }
+
+    .rightPart{
+        width: 0%;
+    }
+
+    .Why{
+        display: none;
+        width: 0%;
+    }
+
+    .Contact{
+        height: 20px;
+        font-size: 20px; 
+    }
+
+    .Contactus{
+        height: 20px;
+        font-size: 18px;
+    }
+
+    .footer{
+        height: 20px;
+    }
+
+    .footer a{
+        font-size: 10px;
+    }
+}
